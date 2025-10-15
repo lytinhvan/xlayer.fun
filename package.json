@@ -33,6 +33,7 @@
     "viem": "^2.37.1",
     "vite": "^7.1.4",
     "tailwindcss": "^3.4.3",
+    "autoprefixer": "^10.4.19",
     "wagmi": "^2.16.9"
   }
 }
